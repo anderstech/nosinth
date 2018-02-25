@@ -1,4 +1,4 @@
-# nosinth
+# nOSINTh
 Norwegian Open Source Intelligence Harvester
 
 This is a super simple Python script that let's you search for a person or company.
